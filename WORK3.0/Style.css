@@ -1,0 +1,37 @@
+p {
+    color: #614561;
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 1.6;
+    background-color: rgb(193, 145, 238);
+}
+#p{
+    background-color: rgb(250, 175, 105);
+}
+#a{
+    background-color: rgb(247, 212, 169);
+}
+#t{
+    background-color: rgb(27, 230, 230);
+}
+#c{
+    background-color: #3886c5;
+}
+#h{
+    background-color: rgb(153, 235, 153);
+}
+#r{
+    background-color: rgb(226, 102, 160);
+}
+#n{
+    background-color: rgb(247, 123, 123);
+}
+#j{
+    background-color: rgb(243, 252, 118);
+}
+body{
+    background-color: rgb(228, 187, 231);
+}
